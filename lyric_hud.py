@@ -1,11 +1,3 @@
-"""
-lyric_hud.py — Fullscreen Spotify Lyrics HUD for macOS (M2)
-- Art moved higher, lyrics and controls repositioned.
-- Fast button response (25ms polling).
-- Uses LRCLIB for lyrics, TheAudioDB for duration fallback.
-- Self‑contained, no separate API server.
-"""
-
 import sys
 import re
 import time
